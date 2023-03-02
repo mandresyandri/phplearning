@@ -1,8 +1,6 @@
 <?php
 
-$cmw = 'm1cmw';
-$$cmw = 'm2cmw';
+/* Files for testing new skills in PHP */ 
 
 
-echo ${$cmw};
 ?>
